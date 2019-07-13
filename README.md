@@ -19,7 +19,9 @@ In this VeganAppLite embodiment, users can search for keywords, tags, and produc
 
 Even at this rudimentary stage, there's already a LOT of value to be gained from creating a robust global database of vegan goods and consumer products. 
 
-But the front-end capabilities are scaleable to other categories of vegan goods and services, inluding: (A) vegan home-made goods; (B) actual heirloom seeds/plants; (C) e-commerce integration via plugins to existing centralized marketplaces (e.g., Amazon) and decentralized P2P markets & communities; (D) beyond food goods to all vegan goods, from apparel & make-up to the all-vegan Tesla Model X; (E) "Nearby" geo-localized searches for physical stores & local delivery options (real-time delivery a la VeganEats modeled on UberEats); (F) et al. The potential utility gains from a robust front-end vegan portal are too numerous to list.
+But the front-end capabilities are scaleable to other categories of vegan goods and services, inluding: (A) vegan home-made goods; (B) actual heirloom seeds/plants; (C) e-commerce integration via plugins to existing centralized marketplaces (e.g., Amazon) and decentralized P2P markets & communities; (D) beyond food goods to all vegan goods, from apparel & make-up to the all-vegan Tesla Model X; (E) "Nearby" geo-localized searches for physical stores & local delivery options (real-time delivery a la VeganEats modeled on UberEats); (F) et al. 
+
+The potential utility gains from a robust front-end vegan portal are too numerous to list.
 
 (2) BACK-END (PLANTBASE)
 
